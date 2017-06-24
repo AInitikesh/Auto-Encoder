@@ -1,4 +1,4 @@
-# Auto-Encoder
+# Auto-Encoder using simple neural network
 Auto-Encoder for encoding an image to reduce dimensionality and the decoding to reconstruct the image. 
 
 This program in wrriten in jupyter notebook and requires anaconda.
